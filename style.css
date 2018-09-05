@@ -1,0 +1,33 @@
+#wrap{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+#palace{
+    position: relative;
+    width: 800px;
+    height: 800px;
+    background-color: #000000;
+    margin-bottom: 20px;
+}
+#redS{
+    background-color: #ff0000;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+#greenS{
+    background-color: #008000;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+#stats{
+    display: flex;
+    justify-content: space-between;
+}
+P{
+    font-size: 30px;
+    color: #0000ff;
+    margin: 0 20px;
+}
